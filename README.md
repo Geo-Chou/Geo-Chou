@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     <a href="https://null/">Git-Blog</a> |
-    <a href="https://null/">Note Share</a> |
+    <a href="https://geo-chou.notion.site/Geo-Chou-s-Open-Notes-e2a2b4a9dbbc492b922e026dcccedd72/">Note Share</a> |
     <a href="https://null/">About Me</a> |
     <a href="https://github.com/Geo-Chou">Projects</a> | 
     <a href="https://space.bilibili.com/286436267">Life</a>

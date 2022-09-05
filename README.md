@@ -20,6 +20,7 @@
 - ⚡ Growing Now. I hope can discuss with everyone with same hobbies or major.
 
 
+ During the personal website construction, the "Notes share" would replace it temporarily.
 
 <!--
 **Geo-Chou/Geo-Chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

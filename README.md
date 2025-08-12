@@ -1,4 +1,4 @@
-### <h3 align="center"> Geo-Chou's Git 👋
+### <h3 align="center"> Geo-Zhou's Git 👋
 
 <p align="center">
   <samp>
@@ -13,9 +13,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Geo-Chou&show_icons=true&hide_border=true&" width="50%">
 
 
-- 🔭 I’m currently studying in UCAS.
-- 🌱 I’m currently learning Computer Vision.
-- 📫 How to reach me: [ZhouJie.M.C.S@gamil.com](mailto:ZhouJie.M.C.S@gamil.com).
+- 🔭 I’m currently studying in MSU.
+- 🌱 I’m currently learning Wireless Sensing.
+- 📫 How to reach me: [geozhou@msu.edu](mailto:geozhou@msu.edu).
 - 😄 hobbies: anime, music, drawing, volunteering.
 - ⚡ Growing Now. I hope can discuss with everyone with same hobbies or major.
 

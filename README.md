@@ -2,9 +2,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://null/">Git-Blog</a> |
-    <a href="https://geo-chou.notion.site/Geo-Chou-s-Open-Notes-e2a2b4a9dbbc492b922e026dcccedd72/">Note Share</a> |
-    <a href="https://null/">About Me</a> |
+    <a href="https://blog.geo-zhou.com/">Blog</a> |
+    <a href="https://geo-zhou.com/">Homepage</a> |
     <a href="https://github.com/Geo-Chou">Projects</a> | 
     <a href="https://space.bilibili.com/286436267">Life</a>
   </samp>
@@ -19,8 +18,6 @@
 - 😄 hobbies: anime, music, drawing, volunteering.
 - ⚡ Growing Now. I hope can discuss with everyone with same hobbies or major.
 
-
- During the personal website construction, the "Notes share" would replace it temporarily.
 
 <!--
 **Geo-Chou/Geo-Chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

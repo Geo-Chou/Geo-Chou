@@ -9,7 +9,7 @@
   </samp>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Geo-Chou&show_icons=true&hide_border=true&" width="50%">
+![Geo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Chou&show_icons=true&theme=transparent)
 
 
 - 🔭 I’m currently studying in MSU.

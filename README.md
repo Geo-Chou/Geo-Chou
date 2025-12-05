@@ -9,8 +9,6 @@
   </samp>
 </p>
 
-![Geo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Chou&show_icons=true&theme=transparent)
-
 
 - 🔭 I’m currently studying in MSU.
 - 🌱 I’m currently learning Wireless Sensing.
@@ -18,6 +16,10 @@
 - 😄 hobbies: anime, music, drawing, volunteering.
 - ⚡ Growing Now. I hope can discuss with everyone with same hobbies or major.
 
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Geo-Chou&show_icons=true&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Chou&layout=compact&theme=tokyonight" />
+</p>
 
 <!--
 **Geo-Chou/Geo-Chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

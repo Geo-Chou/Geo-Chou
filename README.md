@@ -16,13 +16,6 @@
 - 😄 hobbies: anime, music, drawing, volunteering.
 - ⚡ Growing Now. I hope can discuss with everyone with same hobbies or major.
 
-<p align="center">
-  <img height="180px" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Geo-Chou&show_icons=true&theme=tokyonight&token=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" />
-  <img height="180px" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Geo-Chou&layout=compact&theme=tokyonight&token=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" />
-</p>
-
 
 <!--
 **Geo-Chou/Geo-Chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

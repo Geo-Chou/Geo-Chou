@@ -4,7 +4,7 @@
   <samp>
     <a href="https://blog.geo-zhou.com/">Blog</a> |
     <a href="https://geo-zhou.com/">Homepage</a> |
-    <a href="https://geo-zhou.com/projects/">Projects</a> | 
+    <a href="https://geo-zhou.com/projects">Projects</a> | 
     <a href="https://space.bilibili.com/286436267">Life</a>
   </samp>
 </p>
